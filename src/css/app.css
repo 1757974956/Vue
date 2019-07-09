@@ -1,0 +1,10 @@
+/*设置缩略图*/
+figure {
+  display: inline-block !important;
+  margin: 5px 15px;
+}
+figure img {
+  width: 85px;
+  height: 55px;
+}
+/*# sourceMappingURL=app.css.map */
