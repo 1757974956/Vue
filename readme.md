@@ -1,4 +1,3 @@
-#用心去感受
 
 ##制作首页app组件
 1.完成了header组件,使用mint-UI中的hader组件
